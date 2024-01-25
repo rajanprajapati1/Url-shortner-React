@@ -1,7 +1,3 @@
-Certainly! I'll integrate the provided screenshots into the README. Please note that the URLs you've provided for the images need to be embedded in the markdown format for them to display properly. Here's an updated version of the README:
-
----
-
 ## Project Name: #LINKIFY - URL Shortener with Full Authentication using React and Node.js
 
 ### Overview:
